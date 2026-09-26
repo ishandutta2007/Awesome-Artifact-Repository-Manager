@@ -55,9 +55,9 @@ Below is a detailed comparison of leading commercial SaaS artifact repository pl
 
 ## 🌟 Open-Source GitHub Projects
 
-Below is a curated list of top open-source artifact repositories, package servers, and OCI image registries, sorted by **GitHub Star Count (Descending)**.
+Below is a curated list of top open-source artifact repositories, package servers, and OCI image registries, sorted by **GitHub Stars_Count (Descending)**.
 
-| 📦 Project Name | 📜 Description & Supported Formats | 🌟 GitHub Stars Badge |
+| 📦 Project Name | 📜 Description & Supported Formats | 🌟 GitHub_Stars_Badge |
 | :--- | :--- | :--- |
 | **[Gitea](https://github.com/go-gitea/gitea)** | Lightweight all-in-one DevOps forge featuring built-in package registries for Docker/OCI, npm, PyPI, Maven, NuGet, Cargo, Helm, and Composer. | [![Gitea Stars](https://img.shields.io/github/stars/go-gitea/gitea?style=social)](https://github.com/go-gitea/gitea/stargazers) |
 | **[Harbor](https://github.com/goharbor/harbor)** | CNCF Graduated enterprise cloud-native OCI registry securing artifacts with RBAC, vulnerability scanning (Trivy), image signing (Cosign/Notary), and multi-datacenter replication. | [![Harbor Stars](https://img.shields.io/github/stars/goharbor/harbor?style=social)](https://github.com/goharbor/harbor/stargazers) |
@@ -104,7 +104,7 @@ Contributions are welcome and highly appreciated! To add a new platform or open-
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Add/Update** the entries in `README.md` following the exact table structure.
-3. 🌟 Provide factual descriptions, exact starting pricing, free limits, company scale, or verified GitHub star badges.
+3. 🌟 Provide factual descriptions, exact starting pricing, free limits, company scale, or verified GitHub Stars_Badges.
 4. 📬 Submit a **Pull Request (PR)** with a summary of changes.
 
 ---
