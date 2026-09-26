@@ -1,6 +1,6 @@
 # 📦 Awesome Artifact Repository Manager
 
-<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Artifact-Repository-Manager/pulls)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Artifact-Repository-Manager/pulls) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <p align="center">
   <img src="assets/banner.svg" alt="Awesome Artifact Repository Manager Banner" width="100%"/>
@@ -21,6 +21,8 @@ Artifact repository managers form the backbone of modern **DevOps Pipelines**, *
 - [🎯 How to Choose an Artifact Repository Manager](#-how-to-choose-an-artifact-repository-manager)
 - [❓ Frequently Asked Questions (FAQs)](#-frequently-asked-questions-faqs)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsoring](#-support--sponsoring)
+- [📈 Star History](#-star-history)
 - [⚖️ Disclaimer & Security Notice](#%EF%B8%8F-disclaimer--security-notice)
 
 ---
@@ -104,6 +106,23 @@ Contributions are welcome and highly appreciated! To add a new platform or open-
 2. 📝 **Add/Update** the entries in `README.md` following the exact table structure.
 3. 🌟 Provide factual descriptions, exact starting pricing, free limits, company scale, or verified GitHub star badges.
 4. 📬 Submit a **Pull Request (PR)** with a summary of changes.
+
+---
+
+## 💖 Support & Sponsoring
+
+Thank you for exploring the **Awesome Artifact Repository Manager** list! If you find this repository helpful for your DevOps research, platform engineering workflows, or team stack decisions, please consider supporting the project:
+
+- ⭐ **Star** this repository to boost its visibility on GitHub.
+- 🔀 **Fork** and contribute updates or new artifact platforms.
+- 📢 **Share** this list with your DevOps team, SRE community, or colleagues.
+- ☕ **Sponsor / Buy me a coffee**: Support ongoing open-source curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)!
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Artifact-Repository-Manager&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Artifact-Repository-Manager&type=date&legend=top-left)
 
 ---
 
